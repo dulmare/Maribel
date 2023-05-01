@@ -1,6 +1,5 @@
-[]: # File: README.md
-## Hola, soy Maribel 👋
-
+# Hola, soy Maribel 👋
+## Desarrolladora web junior
 Soy una desarrolladora web junior, apasionada por la tecnología y el aprendizaje continuo. Me encanta aprender cosas nuevas y compartir lo que sé con los demás.
 
 ### 📫 Cómo contactarme:
